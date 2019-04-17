@@ -1,0 +1,4 @@
+#Sat Apr 13 19:59:43 CDT 2019
+base.0=/Users/parsadastjerdi/Desktop/Code/tamu/ecen-489/android/mp9/CodeLabs/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
